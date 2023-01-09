@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @yass2400012
+- 👋 Hi, I’m Yassine
 - 👀 I’m interested in Web devolepment
-- 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
