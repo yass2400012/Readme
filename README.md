@@ -19,8 +19,9 @@ To view my portfolio and explore my projects, simply visit [My Portfolio](https:
 
 ## Contact Me
 
-If you have any questions or would like to discuss potential opportunities, please feel free to reach out to me. You can contact me via email at yasslebbar@gmail.com
-Thank you for visiting my Github!
+If you have any questions or would like to discuss potential opportunities, please feel free to reach out to me. You can contact me via email at yasslebbar@gmail.com.
+
+Thank you for visiting my Github :)
 
 <!---
 yass2400012/yass2400012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
