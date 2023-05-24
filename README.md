@@ -15,7 +15,7 @@ Feel free to explore my portfolio to get a better understanding of my capabiliti
 
 ## Getting Started
 
-To view my portfolio and explore my projects, simply visit [My Portfolio](https://myportfolio-nine.vercel.app). Feel free to navigate through the different sections and check out my projects and resume.
+To view my portfolio and explore my projects, simply visit [My Portfolio](https://myportfolioyassine.vercel.app). Feel free to navigate through the different sections and check out my projects and resume.
 
 ## Contact Me
 
