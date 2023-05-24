@@ -1,5 +1,5 @@
 - Hello There, My name is Yassine Lebbar.
-- Welcome to my Github! I'm a FullStack Web Developper near graduation for the Computer Programming program at Seneca College. I've created a portfolio to showcase my skills, projects, and experience in the field of web development.
+- Welcome to my Github! I'm a FullStack Web Developper near graduation from the Computer Programming program at Seneca College. I've created a portfolio to showcase my skills, projects, and experience in the field of web development.
 
 ## About Me
 
