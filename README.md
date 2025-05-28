@@ -1,29 +1,57 @@
-- Hello There, My name is Yassine Lebbar.
-- Welcome to my Github! I'm a FullStack Web Developper near graduation from the Computer Programming program at Seneca College. I've created a portfolio to showcase my skills, projects, and experience in the field of web development.
+# Hello, I'm Yassine
+<a href="https://www.linkedin.com/in/yassinelebbar/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## About Me
+## Brief Introduction
+IT professional with a backgzround in programming, IT support, and networking—now pivoting into cybersecurity. I bring hands-on experience resolving complex technical issues, analyzing logs, and maintaining system security. I’m passionate about threat detection, security automation, and SOC operations, and I’m actively building my skills to secure an entry-level role in cybersecurity.
 
-I am passionate about building web applications and have experience working with various technologies such as HTML, CSS, JavaScript, Node.js, and more. Throughout my studies at Seneca College, I have gained a strong foundation in programming concepts, problem-solving, and software development practices.
+## Objective
+My journey as IT support analyst has led me to develop a passion for cybersecurity, and I am now eager to transition into this field. My goal is to contribute to a security team where I can apply my troubleshooting experience, grow my knowledge in threat detection, and support incident response efforts in a real-world environment.
 
-## Portfolio Highlights
+## Skills
 
-Feel free to explore my portfolio to get a better understanding of my capabilities. Here are some key highlights:
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Troubleshooting & Root Cause Analysis         | IT Analyst Work experience|
+| Log Analysis & Diagnostic Reporting           | IT Analyst Work experience|
+| Bilingual Support & Technical Translation     | IT Analyst Work experience|
 
-- **Projects**: You'll find a collection of projects I have worked on, demonstrating my proficiency in frontend and backend development, as well as database management.
-- **Skills**: I have experience in frontend technologies like HTML, CSS, and JavaScript frameworks, as well as backend technologies such as Node.js and Express.js. Additionally, I am familiar with databases like MongoDB and MySQL.
-- **Resume**: For more detailed information about my education, work experience, and skills, please refer to my resume, which is available in the repository.
+## Tools
+[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-## Getting Started
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
 
-To view my portfolio and explore my projects, simply visit [My Portfolio](https://myportfolioyassine.vercel.app). Feel free to navigate through the different sections and check out my projects and resume.
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
 
-## Contact Me
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
 
-If you have any questions or would like to discuss potential opportunities, please feel free to reach out to me. You can contact me via email at yasslebbar@gmail.com.
+## Certifications
+[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+</div>
 
-Thank you for visiting my Github :)
-
-<!---
-yass2400012/yass2400012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Projects
+- Detection Lab
+- SOC Automation Project
