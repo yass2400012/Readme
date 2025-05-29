@@ -17,7 +17,7 @@ IT professional with 2+ years experience as Bilingual IT support analyst with a 
 | Bilingual Support & Technical Translation     | IT Analyst Work experience|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
