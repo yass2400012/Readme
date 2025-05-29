@@ -11,7 +11,7 @@ My journey as IT support analyst has led me to develop a passion for cybersecuri
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="[https://github.com/yass2400012/SIEM-Implementation-and-Log-Analysis]">SIEM-Implementation and Log Analysis</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/yass2400012/SIEM-Implementation-and-Log-Analysis">SIEM-Implementation and Log Analysis</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
