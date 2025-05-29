@@ -2,10 +2,7 @@
 <a href="https://www.linkedin.com/in/yassinelebbar/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Brief Introduction
-IT professional with 2+ years experience in programming, IT support, and networking—now pivoting into cybersecurity. I bring hands-on experience resolving complex technical issues, analyzing logs, and maintaining system security. I’m passionate about threat detection, security automation, and SOC operations, and I’m actively building my skills to secure an entry-level role in cybersecurity.
-
-## Objective
-My journey as IT support analyst has led me to develop a passion for cybersecurity, and I am now eager to transition into this field. My goal is to contribute to a security team where I can apply my troubleshooting experience, grow my knowledge in threat detection, and support incident response efforts in a real-world environment.
+IT professional with 2+ years experience as Bilingual IT support analyst with a background in programming. I bring hands-on experience resolving complex technical issues, analyzing logs, and maintaining system security. My goal is to contribute to a security team where I can apply my expertise, grow my knowledge in threat detection, and support incident response efforts in a real-world environment.
 
 ## Skills
 
