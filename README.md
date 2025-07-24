@@ -8,10 +8,8 @@ IT professional with 2+ years experience as Bilingual IT support analyst with a 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Azure-Sentinel-SIEM-Honeypot                  | <a href="https://github.com/yass2400012/Azure-Sentinel-SIEM-Honeypot">Azure-Sentinel-SIEM-Honeypot</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/yass2400012/SIEM-Implementation-and-Log-Analysis">SIEM-Implementation and Log Analysis</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
 | Troubleshooting & Root Cause Analysis         | IT Analyst Work experience|
 | Log Analysis & Diagnostic Reporting           | IT Analyst Work experience|
 | Bilingual Support & Technical Translation     | IT Analyst Work experience|
@@ -33,15 +31,7 @@ IT professional with 2+ years experience as Bilingual IT support analyst with a 
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Azure-Sentinel-SIEM-Honeypot
+- SIEM-Implementation and Log Analysis
